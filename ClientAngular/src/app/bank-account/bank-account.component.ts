@@ -2,7 +2,7 @@ import { BankAccountService } from './../shared/bank-account.service';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormArray, Validators, FormGroup } from '@angular/forms';
 import { BankService } from '../shared/bank.service';
-//testing
+//testing file
 @Component({
   selector: 'app-bank-account',
   templateUrl: './bank-account.component.html',
